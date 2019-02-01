@@ -6,6 +6,12 @@ title: Atílio Luiz - UFC-Quixadá
 	<h1>Atílio Gomes Luiz</h1>
 	<img src="atilio.png" alt="atilio">
 	<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>
+	<h2>Education</h2>
+        <ul>
+	<li>Bachelor degree in Computer Science from Federal University of Ceara (UFC)</li>
+        <li>Master's degree in Computer Science from University of Campinas (UNICAMP)</li>
+        <li>PhD in Computer Science from University of Campinas (UNICAMP)</li>
+	</ul>
 	<h2>Research Interests</h2>			
             <ul>
             <li>Graph Theory</li>
