@@ -9,6 +9,7 @@ title: Atílio Luiz - UFC-Quixadá
 	<h2>Research Interests</h2>			
             <ul>
             <li>Graph Theory</li>
-            <li>Algorithms and Optimization</li>
+            <li>Combinatorial Optimization</li>
+            <li>Design and Analysis of Algorithms</li>
 	    </ul>
 </div><!-- /.blurb -->
