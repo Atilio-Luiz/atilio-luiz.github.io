@@ -24,5 +24,7 @@ title: Atílio Luiz - UFC-Quixadá
             <li><a href="https://scholar.google.com.br/citations?user=SoW-AFAAAAAJ&hl=pt-BR&oi=ao&hl=pt-BR" title="Google Scholar" target="_blank">Google Scholar</a></li>
 		    <li><a href="https://www.ufc.br" title="UFC" target="_blank">Universidade Federal do Ceará</a></li>
 		    <li><a href="https://www.quixada.ufc.br" title="UFC Quixadá" target="_blank">UFC - Campus Quixadá</a></li>
+		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" target="_blank"></a>My Master's dissertation (in Portuguese)</li>
+		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" target="_blank"></a>My PhD thesis (in English)</li>
 	    </ul>
 </div><!-- /.blurb -->
