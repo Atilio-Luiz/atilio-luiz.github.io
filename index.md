@@ -1,9 +1,9 @@
 ---
 layout: default
-title: A.G.Luiz
+title: Atílio Gomes Luiz
 ---
 <div class="blurb">
-	<h1>Atílio Gomes Luiz</h1>
+	<!--<h1>Atílio Gomes Luiz</h1>-->
 	<img src="atilio.png" alt="atilio">
 	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
 	<h2>Education</h2>
