@@ -23,10 +23,11 @@ title: Atílio Luiz - UFC-Quixadá
             <li><a href="https://orcid.org/0000-0002-6177-403X" title="Google Scholar" target="_blank">ORCID</a></li>
             <li><a href="https://scholar.google.com.br/citations?user=SoW-AFAAAAAJ&hl=pt-BR&oi=ao&hl=pt-BR" title="Google Scholar" target="_blank">Google Scholar</a></li>
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" target="_blank">DBLP</a></li>
+		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" target="_blank">My Master's dissertation</a> (in Portuguese)</li>
+		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" target="_blank">My PhD thesis</a> (in English)</li>
 		    <li><a href="http://www.ufc.br" title="UFC" target="_blank">Universidade Federal do Ceará</a></li>
 		    <li><a href="https://www.quixada.ufc.br" title="UFC Quixadá" target="_blank">UFC - Campus Quixadá</a></li>
 		    <li><a href="http://www.ic.unicamp.br/" target="_blank">Intitute of Computing - UNICAMP</a></li>
-		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" target="_blank">My Master's dissertation</a> (in Portuguese)</li>
-		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" target="_blank">My PhD thesis</a> (in English)</li>
+		    
 	    </ul>
 </div><!-- /.blurb -->
