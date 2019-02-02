@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Atílio Luiz - UFC-Quixadá
+title: A.G.Luiz
 ---
 <div class="blurb">
 	<h1>Atílio Gomes Luiz</h1>
