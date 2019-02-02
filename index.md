@@ -8,9 +8,9 @@ title: A.G.Luiz
 	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
 	<h2>Education</h2>
         <ul>
-	<li>Bachelor degree in Computer Science from Federal University of Ceara (UFC)</li>
-        <li>Master's degree in Computer Science from University of Campinas (UNICAMP)</li>
-        <li>PhD in Computer Science from University of Campinas (UNICAMP)</li>
+	<li>Bachelor degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
+        <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" target="_blank">(UNICAMP)</a></li>
+        <li>PhD in Computer Science from University of Campinas <a href="http://www.unicamp.br/" target="_blank">(UNICAMP)</a></li>
 	</ul>
 	<h2>Research Interests</h2>			
             <ul>
@@ -25,9 +25,6 @@ title: A.G.Luiz
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" target="_blank">DBLP</a></li>
 		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" target="_blank">My Master's dissertation</a> (in Portuguese)</li>
 		    <li><a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" target="_blank">My PhD thesis</a> (in English)</li>
-		    <li><a href="http://www.ufc.br" title="UFC" target="_blank">Universidade Federal do Ceará</a></li>
 		    <li><a href="https://www.quixada.ufc.br" title="UFC Quixadá" target="_blank">UFC - Campus Quixadá</a></li>
-		    <li><a href="http://www.ic.unicamp.br/" target="_blank">Intitute of Computing - UNICAMP</a></li>
-		    
 	    </ul>
 </div><!-- /.blurb -->
