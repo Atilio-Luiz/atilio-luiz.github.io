@@ -8,7 +8,7 @@ title: A.G.Luiz
 	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
 	<h2>Education</h2>
         <ul>
-	<li>Bachelor degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
+	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
         <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" target="_blank">(UNICAMP)</a></li>
         <li>PhD in Computer Science from University of Campinas <a href="http://www.unicamp.br/" target="_blank">(UNICAMP)</a></li>
 	</ul>
