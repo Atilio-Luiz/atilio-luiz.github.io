@@ -19,7 +19,7 @@ title: Atílio Gomes Luiz
 	    </ul>
         <h2>Links</h2>			
             <ul>
-            <li><a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?id=K4261453U6" title="CV Lattes" target="_blank">CV Lattes</a></li>
+            <li><a href="http://lattes.cnpq.br/7364915463901013" title="CV Lattes" target="_blank">CV Lattes</a></li>
             <li><a href="https://orcid.org/0000-0002-6177-403X" title="ORCID" target="_blank">ORCID</a></li>
             <li><a href="https://scholar.google.com.br/citations?user=SoW-AFAAAAAJ&hl=pt-BR&oi=ao&hl=pt-BR" title="Google Scholar" target="_blank">Google Scholar</a></li>
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" title="dblp" target="_blank">DBLP</a></li>
