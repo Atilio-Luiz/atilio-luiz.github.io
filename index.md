@@ -10,7 +10,7 @@ title: Atílio Gomes Luiz
 		Av. José de Freitas Queiroz, 5003<br/>
 		Cedro - Quixadá - Ceará<br/>
 		63902-580<br/>
-		<a href="mailto:gomes.atilio@gmail.com">gomes.atilio@gmail.com</a>
+		Email: <font face="Courier">gomes dot atilio at gmail dot com</font>
 	</p>
 	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
 	<h2>Education</h2>
