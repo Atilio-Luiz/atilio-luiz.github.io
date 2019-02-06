@@ -6,10 +6,10 @@ title: Atílio Gomes Luiz
 	<!--<h1>Atílio Gomes Luiz</h1>-->
 	<img src="at3.png" alt="atilio">
 	<p>
-		Universidade Federal do Ceará - Campus Quixadá\\
-		Av. José de Freitas Queiroz, 5003
-		Cedro – Quixadá – Ceará 
-		63902-580
+		Universidade Federal do Ceará - Campus Quixadá<br/>
+		Av. José de Freitas Queiroz, 5003<br/>
+		Cedro - Quixadá - Ceará<br/>
+		63902-580<br/>
 		<a href="mailto:gomes.atilio@gmail.com">gomes.atilio@gmail.com</a>
 	</p>
 	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
