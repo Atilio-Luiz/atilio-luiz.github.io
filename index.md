@@ -37,6 +37,7 @@ title: Atílio Gomes Luiz
 		    <ul>
 		    <li><a href="https://www.youtube.com/watch?v=v5KWzOOhZrw" target="_blank">Graceful tree problem</a></li>
 		    <li><a href="https://www.youtube.com/watch?v=niaeV_NHh-o" target="_blank">Hadwiger–Nelson problem</a></li>
+			    <li><a href="https://www.youtube.com/watch?v=5mFpVDpKX70" target="_blank">The Collatz conjecture</a></li>
 		    </ul>
 	    </ul>
 </div><!-- /.blurb -->
