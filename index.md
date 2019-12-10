@@ -37,7 +37,6 @@ title: Atílio Gomes Luiz
 		    <ul>
 		    <li><a href="https://www.youtube.com/watch?v=v5KWzOOhZrw" target="_blank">Graceful tree problem</a></li>
 		    <li><a href="https://www.youtube.com/watch?v=niaeV_NHh-o" target="_blank">Hadwiger–Nelson problem</a></li>
-			    <li><a href="" target="_blank"></a></li>
 		    </ul>
 	    </ul>
 </div><!-- /.blurb -->
