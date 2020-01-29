@@ -3,7 +3,6 @@ layout: default
 title: Atílio Gomes Luiz
 ---
 <div class="blurb">
-	<!--<h1>Atílio Gomes Luiz</h1>-->
 	<img src="at3.png" alt="atilio">
 	<p>
 		Universidade Federal do Ceará - Campus Quixadá<br/>
@@ -12,7 +11,6 @@ title: Atílio Gomes Luiz
 		63902-580<br/>
 		Email: <font face="Courier">gomes dot atilio at gmail dot com</font>
 	</p>
-	<!--<p>I'm best known as the horrible cop from <em>A Touch of Evil</em> Don't trust me. <a href="/about">Read more about my life...</a></p>-->
 	<h2>Education</h2>
         <ul>
 	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
@@ -38,9 +36,8 @@ title: Atílio Gomes Luiz
 		    <li><a href="https://www.youtube.com/watch?v=v5KWzOOhZrw" target="_blank">Graceful tree problem</a></li>
 		    <li><a href="https://www.youtube.com/watch?v=niaeV_NHh-o" target="_blank">Hadwiger–Nelson problem</a></li>
 			    <li><a href="https://www.youtube.com/watch?v=Qcv1IqHWAzg" target="_blank">Stable marriage problem</a></li>
-			    <li><a href="slides-aula01-MO804.pdf" target="_blank">Magic graphs</a></li>
-			    
+			    <li><a href="slides-aula01-MO804.pdf" target="_blank">Magic graphs</a></li>			    
 			    <li><a href="https://www.youtube.com/watch?v=5mFpVDpKX70" target="_blank">The Collatz conjecture</a></li>
 		    </ul>
 	    </ul>
-</div><!-- /.blurb -->
+</div>
