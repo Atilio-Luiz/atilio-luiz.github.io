@@ -36,7 +36,8 @@ title: Atílio Gomes Luiz
 		    <li><a href="https://www.youtube.com/watch?v=v5KWzOOhZrw" target="_blank">Graceful tree problem</a></li>
 		    <li><a href="https://www.youtube.com/watch?v=niaeV_NHh-o" target="_blank">Hadwiger–Nelson problem</a></li>
 			    <li><a href="https://www.youtube.com/watch?v=Qcv1IqHWAzg" target="_blank">Stable marriage problem</a></li>
-			    <li><a href="slides-aula01-MO804.pdf" target="_blank">Magic graphs</a></li>			    
+			    <li><a href="slides-aula01-MO804.pdf" target="_blank">Magic graphs</a></li>	
+			    <li><a href="https://www.youtube.com/watch?v=C4Zr4cOVm9g" target="_blank">Perfect graphs</a></li>
 			    <li><a href="https://www.youtube.com/watch?v=5mFpVDpKX70" target="_blank">The Collatz conjecture</a></li>
 		    </ul>
 	    </ul>
