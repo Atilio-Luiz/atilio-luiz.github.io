@@ -13,7 +13,7 @@ title: Atílio Gomes Luiz
 	</p>
 	<h2>Education</h2>
         <ul>
-	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
+	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a><br>with collaborative period in University of Waterloo</li>
         <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a></li>
         <li>PhD in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a></li>
 	</ul>
