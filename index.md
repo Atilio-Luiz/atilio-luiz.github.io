@@ -15,6 +15,8 @@ title: Atílio Gomes Luiz
 	<h3>Reflexões em tempos de Covid-19</h3>
 	<ul>
 		<li><a href="https://www.chronicle.com/article/Why-You-Should-Ignore-All-That/248366" target="_blank">Why You Should Ignore All That Coronavirus-Inspired Productivity Pressure</a></li>
+		<li><a href="https://www.deviante.com.br/noticias/uma-ode-a-ciencia-a-multidisciplinaridade-no-combate-ao-coronavirus/" target="_blank">Uma Ode à Ciência: a multidisciplinaridade no combate ao Coronavírus</a></li>
+		<li>Vídeo: <a href="https://www.youtube.com/watch?v=tCPRFSZFFBQ" target="_blank">Tudo vai voltar ao normal</a></li>
 	</ul>
 	<hr>
 	<h2>Education</h2>
