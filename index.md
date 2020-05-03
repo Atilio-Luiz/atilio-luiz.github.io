@@ -13,9 +13,10 @@ title: Atílio Gomes Luiz
 	</p>
 	<hr>
 	<h3>Reflexões em tempos de Covid-19</h3>
-	
+	<ul>
+		<li><a href="https://www.chronicle.com/article/Why-You-Should-Ignore-All-That/248366" target="_blank">Why You Should Ignore All That Coronavirus-Inspired Productivity Pressure</a></li>
+	</ul>
 	<hr>
-	
 	<h2>Education</h2>
         <ul>
 	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
