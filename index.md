@@ -11,6 +11,11 @@ title: Atílio Gomes Luiz
 		63902-580<br/>
 		Email: <font face="Courier">gomes dot atilio at gmail dot com</font>
 	</p>
+	<hr>
+	<h3>Reflexões em tempos de Covid-19</h3>
+	
+	<hr>
+	
 	<h2>Education</h2>
         <ul>
 	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
