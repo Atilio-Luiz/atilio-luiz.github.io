@@ -22,8 +22,9 @@ title: Atílio Gomes Luiz
 	<hr>
 	<h2>Education</h2>
         <ul>
+		<li><a href="https://ifce.edu.br/fortaleza" title="IFCE" target="_blank">IFCE</a> - Instituto Federal de Educação, Ciência e Tecnologia do Ceará --- Campus Fortaleza</li>
 	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
-        <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period at <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a></li>
+        <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period at <a href="https://uwaterloo.ca/" title="UW" target="_blank">University of Waterloo</a></li>
         <li>PhD in Computer Science from University of Campinas (UNICAMP)<br>with collaborative period at University of Waterloo.</li>
 	</ul>
 	<hr>
