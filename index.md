@@ -39,8 +39,8 @@ title: Atílio Gomes Luiz
             <li><a href="https://orcid.org/0000-0002-6177-403X" title="ORCID" target="_blank">ORCID</a></li>
             <li><a href="https://scholar.google.com.br/citations?user=SoW-AFAAAAAJ&hl=pt-BR&oi=ao&hl=pt-BR" title="Google Scholar" target="_blank">Google Scholar</a></li>
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" title="dblp" target="_blank">DBLP</a></li>
-		    <li>My Master's dissertation: Adjacent-vertex-distinguishing total colorings of graphs<a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" title="my dissertation" target="_blank">(link)</a> (in Portuguese)</li>
-		    <li>My PhD Thesis: Graceful labellings and neighbour-distinguishing labellings of graphs : Rotulações graciosas e rotulações semifortes em grafos<a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" title="my PhD thesis" target="_blank">(link)</a></li>
+		    <li>My Master's dissertation: Adjacent-vertex-distinguishing total colorings of graphs <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" title="my dissertation" target="_blank">(link)</a></li>
+		    <li>My PhD Thesis: Graceful labellings and neighbour-distinguishing labellings of graphs <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" title="my PhD thesis" target="_blank">(link)</a></li>
 		    <!--<li>Some interesting mathematical problems and structures:</li>
 		    <ul>
 		    <li><a href="https://www.youtube.com/watch?v=v5KWzOOhZrw" target="_blank">Graceful tree problem</a></li>
