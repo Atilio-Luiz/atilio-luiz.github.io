@@ -26,11 +26,13 @@ title: Atílio Gomes Luiz
         <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period at <a href="https://uwaterloo.ca/" target="_blank">University of Waterloo</a></li>
         <li>PhD in Computer Science from University of Campinas (UNICAMP)<br>with collaborative period at University of Waterloo.</li>
 	</ul>
+	<hr>
 	<h2>Research Interests</h2>			
             <ul>
             <li>Graph Theory</li>
             <li>Design and Analysis of Algorithms</li>
 	    </ul>
+	<hr>
         <h2>Links</h2>			
             <ul>
             <li><a href="http://lattes.cnpq.br/7364915463901013" title="CV Lattes" target="_blank">CV Lattes</a></li>
@@ -48,5 +50,6 @@ title: Atílio Gomes Luiz
 			    <li><a href="https://www.youtube.com/watch?v=C4Zr4cOVm9g" target="_blank">Perfect graphs</a></li>
 		    </ul>-->
 	    </ul>
+	<hr>
 	<br/><br/>
 </div>
