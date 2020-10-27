@@ -11,8 +11,8 @@ title: Atílio Gomes Luiz
 		63902-580<br/>
 		Email: <font face="Courier">gomes dot atilio at gmail dot com</font>
 	</p>
-	<hr>
-	<!-- <h3>Reflexões em tempos de Covid-19</h3>
+	<!-- <hr>
+	<h3>Reflexões em tempos de Covid-19</h3>
 	<ul>
 		<li>Vídeo: <a href="https://www.youtube.com/watch?v=tCPRFSZFFBQ" target="_blank">Tudo vai voltar ao normal</a></li>
 		<li><a href="https://www.chronicle.com/article/Why-You-Should-Ignore-All-That/248366" target="_blank">Why You Should Ignore All That Coronavirus-Inspired Productivity Pressure</a></li>
