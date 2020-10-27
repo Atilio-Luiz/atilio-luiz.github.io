@@ -23,8 +23,8 @@ title: Atílio Gomes Luiz
 	<h2>Education</h2>
         <ul>
 	<li>Bachelor's degree in Computer Science from Federal University of Ceara <a href="http://www.ufc.br" title="UFC" target="_blank">(UFC)</a></li>
-        <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period in University of Waterloo, <a href="https://uwaterloo.ca/combinatorics-and-optimization/">C&O Department</a></li>
-        <li>PhD in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period in University of Waterloo, <a href="https://uwaterloo.ca/combinatorics-and-optimization/">C&O Department</a></li>
+        <li>Master's degree in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period at <a href="https://uwaterloo.ca/">University of Waterloo</a></li>
+        <li>PhD in Computer Science from University of Campinas <a href="http://www.unicamp.br/" title="UNICAMP" target="_blank">(UNICAMP)</a><br>with collaborative period at University of Waterloo.</li>
 	</ul>
 	<h2>Research Interests</h2>			
             <ul>
