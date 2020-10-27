@@ -48,4 +48,5 @@ title: Atílio Gomes Luiz
 			    <li><a href="https://www.youtube.com/watch?v=C4Zr4cOVm9g" target="_blank">Perfect graphs</a></li>
 		    </ul>-->
 	    </ul>
+	<br/><br/>
 </div>
