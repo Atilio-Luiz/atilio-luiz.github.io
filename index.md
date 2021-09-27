@@ -9,7 +9,7 @@ title: Atílio Gomes Luiz
 		Av. José de Freitas Queiroz, 5003<br/>
 		Cedro - Quixadá - Ceará<br/>
 		63902-580<br/>
-		Email: <font face="Courier">gomes dot atilio at gmail dot com</font>
+		Email: <font face="Courier">gomes dot atilio at ufc dot br</font>
 	</p>
 	<!-- <hr>
 	<h3>Reflexões em tempos de Covid-19</h3>
