@@ -40,6 +40,7 @@ title: Atílio Gomes Luiz
             <li><a href="http://lattes.cnpq.br/7364915463901013" title="CV Lattes" target="_blank">CV Lattes</a></li>
             <li><a href="https://orcid.org/0000-0002-6177-403X" title="ORCID" target="_blank">ORCID</a></li>
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" title="dblp" target="_blank">DBLP</a></li>
+		    <li><a href="https://www.mathgenealogy.org/id.php?id=257300" title="MGP" target="_blank">Mathematics Genealogy Project</a></li>
 		    <li>My Master's dissertation (2014): Adjacent-vertex-distinguishing total colorings of graphs <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/275526" title="my dissertation" target="_blank">(link)</a></li>
 		    <li>My PhD Thesis (2018): Graceful labellings and neighbour-distinguishing labellings of graphs <a href="http://repositorio.unicamp.br/jspui/handle/REPOSIP/332078" title="my PhD thesis" target="_blank">(link)</a></li>
 		    <!--<li>Some interesting mathematical problems and structures:</li>
