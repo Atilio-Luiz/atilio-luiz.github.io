@@ -31,6 +31,7 @@ title: Atílio Gomes Luiz
 	<h2>Research Interests</h2>			
             <ul>
             <li>Graph Theory</li>
+            <li>Discrete Mathematics</li>
             <li>Design and Analysis of Algorithms</li>
 	    </ul>
 	<hr>
