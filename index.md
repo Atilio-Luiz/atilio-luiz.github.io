@@ -3,7 +3,7 @@ layout: default
 title: Atílio Gomes Luiz
 ---
 <div class="blurb">
-	<img src="quixas.png" alt="atilio">
+	<img src="desenho.jpg" height="50" alt="atilio">
 	<p>
 		Universidade Federal do Ceará - Campus Quixadá<br/>
 		Av. José de Freitas Queiroz, 5003<br/>
