@@ -54,6 +54,12 @@ title: Atílio Gomes Luiz
 		    </ul>-->
 	    </ul>
 	<hr>
+ 	<h2>Presentations</h2>			
+            <ul>
+	    <li><a href="" title="" target="_blank">Rotulações de grafos com restrições nas distâncias</a></li>
+            <li><a href="" title="" target="_blank">Double Roman Domination on graphs with maximum degree 3</a></li>
+	    </ul>
+	<hr> 
 	<br/><br/>
 	<a href="https://youtu.be/4R_boNXPygs" target="_blank">Precisamos de você</a>
 </div>
