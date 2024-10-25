@@ -56,8 +56,8 @@ title: Atílio Gomes Luiz
 	<hr>
  	<h2>Presentations</h2>			
             <ul>
-	    <li><a href="" title="" target="_blank">Rotulações de grafos com restrições nas distâncias</a></li>
-            <li><a href="" title="" target="_blank">Double Roman Domination on graphs with maximum degree 3</a></li>
+	    <li><a href="slides-pgmat.pdf" title="" target="_blank">Rotulações de grafos com restrições nas distâncias</a></li>
+            <li><a href="slides-lawcg24" title="" target="_blank">Double Roman Domination on graphs with maximum degree 3</a></li>
 	    </ul>
 	<hr> 
 	<br/><br/>
