@@ -42,7 +42,7 @@ title: Atílio Gomes Luiz
             <li><a href="https://orcid.org/0000-0002-6177-403X" title="ORCID" target="_blank">ORCID</a></li>
 		    <li><a href="https://dblp.uni-trier.de/pers/hd/l/Luiz:At=iacute=lio_G=" title="dblp" target="_blank">DBLP</a></li>
 		    <li><a href="https://www.researchgate.net/profile/Atilio-Luiz" title="research gate" target="_blank">Research Gate</a></li>	    
-		    <li><a href="https://www.mathgenealogy.org/id.php?id=257300" title="MGP" target="_blank">Mathematics Genealogy Project</a></li>
+		    <!--<li><a href="https://www.mathgenealogy.org/id.php?id=257300" title="MGP" target="_blank">Mathematics Genealogy Project</a></li>-->
 		    <li>My Master's dissertation (2014): Adjacent-vertex-distinguishing total colorings of graphs <a href="http://www.repositorio.unicamp.br/acervo/detalhe/932506?guid=1639139978235&returnUrl=%2fresultado%2flistar%3fguid%3d1639139978235%26quantidadePaginas%3d1%26codigoRegistro%3d932506%23932506&i=6" title="my dissertation" target="_blank">(link)</a></li>
 		    <li>My PhD Thesis (2018): Graceful labellings and neighbour-distinguishing labellings of graphs <a href="http://www.repositorio.unicamp.br/acervo/detalhe/1031418?guid=1639139978235&returnUrl=%2fresultado%2flistar%3fguid%3d1639139978235%26quantidadePaginas%3d1%26codigoRegistro%3d1031418%231031418&i=3" title="my PhD thesis" target="_blank">(link)</a></li>
 		    <!--<li>Some interesting mathematical problems and structures:</li>
@@ -62,5 +62,5 @@ title: Atílio Gomes Luiz
 	<hr>-->
 	<br/><br/>
 	<a href="https://youtu.be/4R_boNXPygs" target="_blank">Precisamos de você</a><br/>
-	<a href="https://youtu.be/TRPBY_lxJfE?si=x9vVF_4l-gk6LRhK" target="_blank">Você tem brio?</a>
+	<!--<a href="https://youtu.be/TRPBY_lxJfE?si=x9vVF_4l-gk6LRhK" target="_blank">Você tem brio?</a>-->
 </div>
